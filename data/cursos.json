@@ -1,0 +1,20 @@
+{
+    "cursos": [
+        {
+            "Codigo": "924813",
+            "Nombre": "Lenguaje"
+        },
+        {
+            "Codigo": "824571",
+            "Nombre": "Matematica"
+        },
+        {
+            "Codigo": "862138",
+            "Nombre": "Quimica"
+        },
+        {
+            "Codigo": "415263",
+            "Nombre": "Programación"
+        }
+    ]
+}
